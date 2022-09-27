@@ -30,3 +30,10 @@
     Happy birthday dear Liam
     Happy birthday to you
     ```
+
+## Objectives
+
+SWBAT:
+- Explain what Node.js is
+- Use `readline-sync` to collect user input
+- Use functions
